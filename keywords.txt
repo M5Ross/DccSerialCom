@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DccSerialCom	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+process	KEYWORD2
+notifySerialComEvent	KEYWORD2
+notifyExecuteFunction	KEYWORD2
+notifyGetCVnum	KEYWORD2
+notifyGetCVval	KEYWORD2
+notifySetCV	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+HW_VERSION	LITERAL1
+SW_VERSION	LITERAL1
+DECODER_ID	LITERAL1
